@@ -4728,7 +4728,7 @@
 
 
 local plr = game.Players.LocalPlayer
-if  plr:IsInGroup(15692648) or plr.UserId == 363810181 then
+if  plr:IsInGroup(15693289) or plr.UserId == 363810181 then
 
 -- Its obfuscated, theres no point
 
